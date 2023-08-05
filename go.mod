@@ -1,3 +1,3 @@
-module github.com/scraly/learning-go-by-examples/go-rest-api
+module github.com/Shinichi23/go-rest-api
 
 go 1.20
